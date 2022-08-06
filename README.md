@@ -7,9 +7,7 @@ CodePath Pre-work project for the course Introduction to Mobile App Development
 CodePath Pre-work project for the course Introduction to Mobile App Development, where I built a sample app called HelloWorldApp. The App contains the modified text, 'Hello From Teghpreet' and contains a custom background color. The app also contains a button located below the text to change the text color. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+![](https://i.imgur.com/ons3rUj.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
